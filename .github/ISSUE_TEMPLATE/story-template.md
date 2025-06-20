@@ -1,18 +1,16 @@
 ---
 name: User Story
-about: Template for user stories
+about: Create a user story for the product catalog
 title: ''
-labels: ''
-assignees: ''
-
+labels: enhancement
+assignees: your-username
 ---
 
-**As a** [role]  
+**As a** [user/role]  
 **I need** [feature]  
-**So that** [benefit]  
+**So that** [benefit]
 
-### Acceptance Criteria
-```gherkin
-Given [context]
-When [action]
-Then [outcome]
+### Acceptance Criteria (Gherkin format)
+Given [some context]  
+When [some action is carried out]  
+Then [a particular outcome should occur]
